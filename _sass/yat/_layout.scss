@@ -354,6 +354,10 @@ html {
     word-break: break-word;
     overflow-wrap: break-word;
     flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.8em; /* 기본 줄 높이 설정 */
+    max-height: 3.6em; /* 2줄의 높이를 계산하여 설정 (2줄 * 1.5em) */
   }
 
   .post-tags .post-tag {
