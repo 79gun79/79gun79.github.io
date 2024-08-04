@@ -5,18 +5,18 @@ subtitle: 건블로그에 오신 것을 환영합니다!
 author: Jaegeon. LEE.
 categories: etc
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: "assets/videos/piano1.mp4"
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: "assets/images/banners/piano.jpg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "40vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: none"
   subheading_style: "color: gold; font-weight: bold;"
-tags: 블로그 만들기 성공적
+tags: 시작 성공
 top: 1
 sidebar: []
 ---
