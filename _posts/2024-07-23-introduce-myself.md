@@ -3,7 +3,7 @@ layout: post
 title: 안녕! 난 재건이야!
 subtitle: 건블로그에 오신 것을 환영합니다!
 author: Jaegeon. LEE.
-categories: jekyll
+categories: etc
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
