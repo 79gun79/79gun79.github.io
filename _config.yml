@@ -214,8 +214,8 @@ defaults:
 #     color: "#bbb"
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+disqus:
+  shortname: "GunBlog"
 
 # Gitment comments
 # gitment:
