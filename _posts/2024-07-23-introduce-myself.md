@@ -19,6 +19,7 @@ banner:
 tags: 시작 성공
 top: 1
 sidebar: []
+comments: true
 ---
 
 안녕하세요! 이재건입니다. 성공적으로 드디어 `블로그`를 만들었습니다!<br>
