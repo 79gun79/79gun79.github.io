@@ -215,7 +215,7 @@ defaults:
 
 # Disqus comments
 disqus:
-  shortname: "GunBlog"
+  shortname: "79gun79-github-io"
 
 # Gitment comments
 # gitment:
