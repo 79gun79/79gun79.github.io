@@ -27,6 +27,17 @@ html[data-theme="dark"] {
   .greenback {
     background-color: green;
   }
+  .yellowback {
+    background-color: #999000;
+  }
+
+  .bluest {
+    color: #1f85de;
+  }
+
+  .redst {
+    color: #ff0000;
+  }
 
   body {
     color: $dark-text-color;
