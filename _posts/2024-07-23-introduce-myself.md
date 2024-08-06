@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 안녕! 난 재건이야!
-subtitle: 건블로그에 오신 것을 환영합니다!
-author: Jaegeon. LEE.
+title: Hello, My World!
+subtitle: My World is GunBlog!
+author: Jaegeon. Lee.
 categories: etc
 banner:
   video: "assets/videos/piano1.mp4"
@@ -21,15 +21,16 @@ top: 1
 sidebar: []
 ---
 
-안녕하세요! 이재건입니다. 성공적으로 드디어 `블로그`를 만들었습니다!<br>
-저는 시흥사는 25세 남성이고요~ 여러분에게 저를 마음껏 뽐내고 싶습니다<br>
-앞으로, 저의 일상과 프로그래밍 관련 세상을 마음껏 펼칠 계획이니 지켜봐주세요!<br>
+안녕하세요. 한 번 삽질하면 멈추지 않는 남자, 목표 달성으 위해 사력을 다하는 남자 `이재건`입니다. <br/>
+저를 보여주기 위한 Tech용 `블로그`를 만들었습니다!<br/>
+저는 열정적이고 창의적인 프론트엔드 개발자가 되어 근사한 개발 업무에 참여하고 싶습니다!<br/>
+프론트 뿐 아니라, 이에 국한하지 않고 앞으로 저의 일상과 프로그래밍 관련 세상을 마음껏 펼칠 계획이니 지켜봐주세요!<br/>
 
 인스타그램 : [j_gun2](https://www.instagram.com/j_gun2/)
 
 ## 17179. 케이크 자르기
 
-해당 코드는 알고리즘 코드입니다. 앞으로 많이 풀겠습니다!
+해당 코드는 알고리즘 문제 풀이 코드입니다. 앞으로 많이 풀겠습니다!
 
 ```python
 import sys
@@ -67,8 +68,6 @@ for _ in range(N):
 ```
 
 ## 7576. 토마토
-
-해당 코드도 알고리즘 코드입니다. 앞으로 많이 풀겠습니다!!
 
 ```python
 import sys
