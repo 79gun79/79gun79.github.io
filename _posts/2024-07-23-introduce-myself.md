@@ -6,16 +6,16 @@ author: Jaegeon. Lee.
 categories: etc
 banner:
   video: "assets/videos/piano1.mp4"
-  loop: true
-  volume: 0.8
-  start_at: 8.5
+  loop: true # 비디오 반복 설정
+  volume: 1.0 # 비디오 크기(100%=1.0)
+  start_at: 0 # 비디오 시작시간
   image: "assets/images/banners/piano.jpg"
-  opacity: 0.618
-  background: "#000"
-  height: "100vh"
-  min_height: "40vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: none"
-  subheading_style: "color: gold; font-weight: bold;"
+  opacity: 0.4 # 배너 불투명도(100%=1.0)
+  background: "#000" # 배너 배경
+  height: "100vh" # 배너 기본 높이
+  min_height: "40vh" # 배너 최소 높이
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: none" # 주 제목 css
+  subheading_style: "color: gold; font-weight: bold;" # 부 제목 css
 tags: 시작 성공
 top: 1
 sidebar: []
