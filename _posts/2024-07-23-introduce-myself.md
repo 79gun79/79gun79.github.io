@@ -3,11 +3,11 @@ layout: post
 title: Hello, My World!
 subtitle: My World is GunBlog!
 author: Jaegeon. Lee.
-categories: etc
+categories: Etc..
 banner:
-  video: "assets/videos/piano1.mp4"
+  video: "assets/videos/magnetic1.mp4"
   loop: true # 비디오 반복 설정
-  volume: 1.0 # 비디오 크기(100%=1.0)
+  volume: 0.5 # 비디오 볼륨(100%=1.0)
   start_at: 0 # 비디오 시작시간
   image: "assets/images/banners/piano.jpg"
   opacity: 0.4 # 배너 불투명도(100%=1.0)

@@ -50,6 +50,10 @@ figure {
   color: purple;
 }
 
+.greenst {
+  color: green;
+}
+
 /**
  * Basic styling
  */
@@ -170,12 +174,11 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: #272727;
+  border-left: 4px solid #b6b6b6;
   padding-left: #{$spacing-unit / 2};
   @include relative-font-size(1.125);
   letter-spacing: -1px;
-  font-style: italic;
 
   > :last-child {
     margin-bottom: 0;

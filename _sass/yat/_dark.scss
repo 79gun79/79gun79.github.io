@@ -48,6 +48,9 @@ html[data-theme="dark"] {
   .purplest {
     color: plum;
   }
+  .greenst {
+    color: #dcffe4;
+  }
 
   body {
     color: $dark-text-color;
@@ -60,6 +63,7 @@ html[data-theme="dark"] {
   }
 
   blockquote {
+    color: #b6b6b6;
     border-left: 4px solid #484848;
   }
 
