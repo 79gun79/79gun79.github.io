@@ -41,6 +41,7 @@ author: 79gun79
 #   "Copyright © 2017-2021 Foobar"
 #
 copyright: "Admin : Jaegeon. Lee."
+timezone: Asia/Seoul
 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome! This is GunBlog!
