@@ -164,7 +164,7 @@ defaults:
   home:
     heading: "Welcome! This is GunBlog!"
     subheading: "Creative World!"
-    banner: "assets/images/banners/cat.jpeg"
+    banner: "assets/images/banners/wallpaper1.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
