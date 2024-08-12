@@ -163,7 +163,7 @@ header_pages:
 defaults:
   home:
     heading: "Welcome! This is GunBlog!"
-    subheading: "Make my world. Take your opnion."
+    subheading: "Make your day. Take your time."
     banner: "assets/images/banners/wallpaper1.jpg"
 
 # Banner default settings
