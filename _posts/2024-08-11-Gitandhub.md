@@ -23,18 +23,18 @@ sidebar: []
 
 ## <span class="greenback">개념</span>
 
-**Git** : 버전 관리 도구
-![](../../../../assets/images/gitandgithub/git.png)
+**Git** : 버전 관리 도구  
+![](/assets/images/gitandgithub/git.png)
 
-**Github** : 코드 저장소 (드라이브 개념)
-![](../../../../assets/images/gitandgithub/github.png)
+**Github** : 코드 저장소 (드라이브 개념)  
+![](/assets/images/gitandgithub/github.png)
 
 <br>
 
 ### <span class="greenback">설치 해야할 것</span>
 
-- SourceTree
-  ![](../../../../assets/images/gitandgithub/sourcetree.png)
+- SourceTree  
+  ![](/assets/images/gitandgithub/sourcetree.png)
 
-- Git Bash
-  ![](../../../../assets/images/gitandgithub/gitbash.jpeg)
+- Git Bash  
+  ![](/assets/images/gitandgithub/gitbash.jpeg)
