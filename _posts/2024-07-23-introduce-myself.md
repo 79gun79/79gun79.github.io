@@ -5,7 +5,7 @@ subtitle: My World is GunBlog!
 author: Jaegeon. Lee.
 categories: Etc..
 banner:
-  video: "assets/videos/magnetic1.mp4"
+  video:
   loop: true # 비디오 반복 설정
   volume: 0.5 # 비디오 볼륨(100%=1.0)
   start_at: 0 # 비디오 시작시간
