@@ -5,12 +5,12 @@ subtitle: My World is GunBlog!
 author: Jaegeon. Lee.
 categories: Etc..
 banner:
-  video:
+  video: /assets/videos/Raindrops.mp4
   loop: true # 비디오 반복 설정
   volume: 0.5 # 비디오 볼륨(100%=1.0)
   start_at: 0 # 비디오 시작시간
   image: "assets/images/banners/piano.jpg"
-  opacity: 0.4 # 배너 불투명도(100%=1.0)
+  opacity: 0.75 # 배너 불투명도(100%=1.0)
   background: "#000" # 배너 배경
   height: "100vh" # 배너 기본 높이
   min_height: "40vh" # 배너 최소 높이
