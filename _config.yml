@@ -19,7 +19,7 @@ title: GunBlog # the main title
 tagline: 재건이의 IT 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  안녕하세요 반갑습니다.
+  재건이의 IT 블로그
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,6 +30,9 @@ github:
 
 twitter:
   username: twitter_username # change to your Twitter username
+
+instagram:
+  url: https://www.instagram.com/j_gun2/
 
 social:
   # Change to your full name.
@@ -88,7 +91,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
