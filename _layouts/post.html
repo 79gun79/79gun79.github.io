@@ -181,11 +181,17 @@ script_includes:
   <!-- div.post-tail-wrapper -->
 </article>
 
-<script
+{% if page.commetns != false %}
+<div id="post-disqus" class="container" style="padding: 20px">
+  {% include disqus.html %}
+</div>
+{% endif %}
+
+<!-- <script
   src="https://utteranc.es/client.js"
   repo="79gun79/79gun79.github.io"
   issue-term="pathname"
   theme="github-light"
   crossorigin="anonymous"
   async
-></script>
+></script> -->
