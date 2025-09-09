@@ -248,7 +248,11 @@
     font-weight: bold;
   }
 
-  .blue2pen,
+  .blue2pen {
+    color: black;
+    background-color: #6bade0;
+  }
+
   .highlight .s,
   .highlight .sa,
   .highlight .sc,
@@ -280,6 +284,18 @@
   .yellow2pen {
     color: #000000;
     background-color: #ffff4b;
+  }
+
+  .yellowpen {
+    color: #c0c038;
+  }
+
+  .bbox {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 0 20px;
+    margin: 16px 0;
+    background: #fff;
   }
 
   .highlight .err {
